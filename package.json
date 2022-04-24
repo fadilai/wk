@@ -1,0 +1,26 @@
+{
+  "name": "wk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "14.x"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fadilai/wk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fadilai/wk/issues"
+  },
+  "homepage": "https://github.com/fadilai/wk#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
